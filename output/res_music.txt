@@ -1,0 +1,13 @@
+   1; Ski Ski;  Aarne;  AA LANGUAGE;  7;   900000.00;    4.80;  Big Baby Tape  
+   2; Run away;  ANIKV;  Run away;  10;   467900.00;    4.40;  Kai Angel  9mice  
+   3; BB;  Toxi$;  HOTSHOT;  3;   378900.00;    4.60;  OG Buda  
+   4; KARATE;  SQWOZ BAB;  KARATE;  2;   654000.00;    4.70;  AUM RAA  
+   5; 1000 RAD;  SALUKI;  WILD EAST;  1;   436785.00;    4.90;  Markul  ANIKV  
+   6; SAVE DAT;  Toxi$;  SAVE DAT;  2;   543800.00;    4.87;  Egor Krid  
+   7; All the stars;  Kendrik Lamar;  Black Panter;  5;   430000.00;    4.68;  SZA  
+   8; Soberly;  Aarne;  AA LANGUAGE;  7;   436700.00;    4.40;  Dora  
+   9; vampir;  Scally Milano;  vampir;  3;   254376.00;    3.90;  uglystephan  
+  10; BOY$;  SALUKI;  WILD EAST;  2;   453700.00;    4.81;  FEDUK  FRIENDLY THUG 52  
+  11; Kristina;  LIL KRISTALL;  Kristina;  6;   235000.00;    4.11;  ALISHA  
+  12; Friends;  LIL KRISTALL;  Kristina;  10;   300000.00;    4.21;  ANIKV  
+  13; Krit;  OG Buda;  POX VAWE;  13;   325643.00;    3.87;  Toxi$  
